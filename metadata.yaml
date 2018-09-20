@@ -1,11 +1,16 @@
 _repo: War-Dogs-of-the-World-War_52934
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52934-h/images/cover.jpg
 creator:
   author:
     agent_name: Anderson, John I.
     gutenberg_agent_id: '47125'
     url: http://www.gutenberg.org/2009/agents/47125
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52934#War-Dogs-of-the-World-War
 gutenberg_issued: '2016-08-30'
 gutenberg_type: Text
 identifiers:
